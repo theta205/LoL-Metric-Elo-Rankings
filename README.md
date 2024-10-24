@@ -46,24 +46,8 @@ There are many aspects of a League of Legends game that factor into deciding its
 
 With more time we would love to provide a more flushed-out UI/UX for users. Providing a more intractable site with links to historical Elo graphs for each team is something we anticipate providing. As of right now, only two additional metrics are included in the final Elo. In the future, we could add more metrics: difference in damage dealt, difference in forest farming, as well as expected tournament wins. In the future, we can also take into account the regions of teams.
 
-## Built With
-
-amazon-ec2,
-amazon-web-services,
-express.js,
-javascript,
-node.js
 
 ## Try it out
 
 https://youtu.be/gR3cgH0JwZA
 
-http://3.145.29.23:5001/
-
-Here are some example queries:
-
-3.145.29.23:5001/global_rankings
-
-3.145.29.23:5001/tournament_rankings/108998961191900167
-
-3.145.29.23:5001/team_rankings?team_ids[]=105550059790656435&team_ids[]=98767991866488695&team_ids[]=100725845018863243&team_ids[]=100205573495116443&team_ids[]=98767991877340524&team_ids[]=98767991926151025&team_ids[]=99566404585387054f
